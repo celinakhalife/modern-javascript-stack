@@ -2,10 +2,8 @@
   "name": "modern-javascript-stack",
   "scripts": {
   },
-  "env": {
-    "NPM_CONFIG_PRODUCTION": {
-      "required": true
-    }
+ "env": {
+    "NPM_CONFIG_PRODUCTION": "false"
   },
   "formation": {
   },
