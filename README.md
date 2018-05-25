@@ -1,2 +1,3 @@
-[![Build Status](https://img.shields.io/travis/celinakhalife/modern-javascript-stack.svg?style=flat-square)](https://travis-ci.org/celinakhalife/modern-javascript-stack)
-[![Coverage Status](https://img.shields.io/coveralls/celinakhalife/modern-javascript-stack.svg?style=flat-square)](https://coveralls.io/github/celinakhalife/modern-javascript-stack?branch=master)
+
+[![codecov](https://codecov.io/gh/celinakhalife/modern-javascript-stack/branch/master/graph/badge.svg)](https://codecov.io/gh/celinakhalife/modern-javascript-stack)
+[![CircleCI](https://circleci.com/gh/celinakhalife/modern-javascript-stack.svg?style=svg)](https://circleci.com/gh/celinakhalife/modern-javascript-stack)
